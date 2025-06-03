@@ -23,10 +23,7 @@ Este proyecto hace uso de la sisguientes librerias:
 ## Frontend (React Native con Expo)
 
 - Node.js y npm: [https://nodejs.org/](https://nodejs.org/)
-- Expo CLI:
-
-```bash
-npm install -g expo-cli
+- Expo CLI
 
 ## Backend (AWS, instancia de Ubuntu)
 
